@@ -1,7 +1,7 @@
 
 # Hi there I'm Sep! 👋
 
-I'm a software engineer with experience in fullstack development. I specialize in building complex React applications using modern technologies such as TypeScript, I have also worked with Postgress Node.js, Express.js, and Serverless framework other backend technologies.
+I'm a software engineer with experience in fullstack development. I specialize in building complex React applications using modern technologies such as TypeScript, I have also worked with Postgress Node.js, Express.js, and Serverless framework as well as other backend technologies.
 
 ## Skills
 
