@@ -44,4 +44,4 @@ Currently at **Micruity**, I work on modernizing fintech/retirement-tech infrast
 
 ## 📫 Connect  
 
-- 💼 [LinkedIn](www.linkedin.com/in/sepehrparirokh)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sepehrparirokh) 
