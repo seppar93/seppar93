@@ -70,6 +70,15 @@ I'm a Staff Software Engineer in Toronto with 8+ years of experience, most recen
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
+## 📈 Activity
+
+<p align="center">
+  <sub>Day-to-day work lives in private repos on my <a href="https://github.com/sparirokh-micruity">work account</a></sub><br/><br/>
+  <a href="https://github.com/sparirokh-micruity"><img src="https://ghchart.rshah.org/2a5298/sparirokh-micruity" width="100%" /></a>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=sparirokh-micruity&theme=tokyonight&hide_border=true&mode=weekly" />
+</p>
+
 ## 🎯 Focus
 
 <p align="center">
